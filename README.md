@@ -1,7 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erj00&label=Profile%20views&color=0e75b6&style=flat" alt="erj00" /> </p>
 
 # 💫 About Me:
-Aspiring Software Engineer & Web App Developer | Mobile Developer / Python Developer intern at Linoflap Technology Philippines Inc. | Computer Science Student
+🚀 Aspiring Software Engineer | Mobile & Python Developer 📱💻
+
+Hi there! I’m a software engineer passionate about building innovative solutions, from mobile apps to automation tools. Whether it’s crafting sleek, user-friendly mobile apps with React Native, diving deep into Python for complex algorithms, or exploring new technologies—I’m always up for the challenge!
+
+💡 I thrive on creating clean, efficient code that powers real-world applications, whether it’s simplifying payroll systems or designing AI-driven puzzle games. Problem-solving and continuous learning fuel my journey.
+
+🎮 Outside of coding, I enjoy strategic thinking, gaming, and staying curious about the latest trends in tech and AI. When I’m not coding, I’m probably optimizing my next project or strategizing for my next game.
+
+Let’s collaborate, build something amazing, and level up our skills together! 🚀
 
 
 ## 🌐 Socials:
@@ -22,5 +30,8 @@ Aspiring Software Engineer & Web App Developer | Mobile Developer / Python Devel
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ERJ00&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/erj00)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
