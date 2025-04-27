@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erj00&label=Profile%20views&color=0e75b6&style=flat" alt="erj00" /> </p>
 
 # 💫 About Me:
-Aspiring Software Engineer & Web App Developer | Machine Learning Intern at Linoflap Technology Philippines Inc. | Computer Science Student
+Aspiring Software Engineer & Web App Developer | Mobile Developer / Python Developer intern at Linoflap Technology Philippines Inc. | Computer Science Student
 
 
 ## 🌐 Socials:
